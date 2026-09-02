@@ -1,7 +1,7 @@
 # BD1
 
 **Plano de curso:** Técnico em Desenvolvimento de Sistemas, BD I
-**Nível:** Do zero até o nível de provas e atividades práticas
+
 
 ---
 
